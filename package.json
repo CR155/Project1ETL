@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv": "^6.2.7",
+    "csv-parser": "^3.0.0",
+    "node": "^19.6.0",
+    "process": "^0.11.10",
+    "sqlite3": "^5.1.4"
+  }
+}
